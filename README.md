@@ -1,5 +1,4 @@
-<h1> quizapp <h1>
-
+<Quizy>
 <p>A Simple Quiz App</p>
 
 <h2>ScreenShots</h2>
